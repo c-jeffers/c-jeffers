@@ -59,12 +59,12 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: PhD Artificial Intelligence
+  - area: PhD Mathematics
     institution: University of Toronto
     date_start: 2014-01-01
     date_end: 2019-12-31
     summary: |
-      Thesis on customized large model.
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -142,4 +142,4 @@ awards:
 
 ## About Me
 
-Cameron Jeffers is a Research Fellow of artificial intelligence at the Stanford. He research interests include distributed robotics and compiter vision. He is joining Cambridge University as Assistant Professor in the incoming year.
+Cameron Jeffers is a Research Fellow of artificial intelligence at the Stanford. He research interests include distributed robotics and computer vision. He is joining the University of Cambridge as an Assistant Professor in the incoming year.
